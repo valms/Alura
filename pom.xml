@@ -6,6 +6,7 @@
 
     <groupId>br.com.vjunior</groupId>
     <artifactId>alura</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <developers>
@@ -15,6 +16,9 @@
             <timezone>America/Fortaleza</timezone>
         </developer>
     </developers>
+    <modules>
+        <module>Alura Jpa</module>
+    </modules>
 
 
 </project>
