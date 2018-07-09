@@ -8,5 +8,13 @@
     <artifactId>alura</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <developers>
+        <developer>
+            <name>Vamar Júnior</name>
+            <email>valmar.junior1@gmail.com</email>
+            <timezone>America/Fortaleza</timezone>
+        </developer>
+    </developers>
+
 
 </project>
