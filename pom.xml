@@ -18,6 +18,7 @@
     </developers>
     <modules>
         <module>Alura Jpa</module>
+        <module>Spring MVC</module>
     </modules>
 
 
