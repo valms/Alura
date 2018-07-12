@@ -19,6 +19,7 @@
     <modules>
         <module>Alura Jpa</module>
         <module>Spring MVC</module>
+        <module>JPA 2</module>
     </modules>
 
 
